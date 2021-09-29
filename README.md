@@ -3,7 +3,7 @@
 ![Animation](https://user-images.githubusercontent.com/68731924/135246327-111f582d-9fb8-4191-8d70-0f19aae9dbeb.gif)
 
 ## What is Analog Clock?
-Analog clock is the simple clock app made with Pythong using Pygame framework which represents current time.
+Analog clock is the simple clock app made with Python using Pygame framework which represents current time.
 
 ## Description
 In this project I used math library which allowed me to calculate the correct angles using mathematical functions of pi, cos and sin. 
